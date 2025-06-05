@@ -4,8 +4,8 @@
 
 ## Technologies Used
 
-- Java (Desktop Application)
-- NetBeans (Ant-based project structure)
+- Java
+- NetBeans
 - MySQL (Database connection)
 - Apache POI (Excel export functionality)
 - JDBC (Database connectivity)
@@ -24,7 +24,7 @@
 
 ### Prerequisites
 
-- Java 17 or higher
+- Java 21 or higher
 - MySQL database (with appropriate schema and test data)
 - NetBeans IDE (optional but recommended)
 
