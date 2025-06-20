@@ -52,3 +52,16 @@ Payroll calculation based on hours worked, leave days, and other absence types
 Support for various employee types
 Payroll export to Excel (Apache POI)
 Modular class design for scalability and maintenance
+```
+![Login](https://raw.githubusercontent.com/kirkosm/EmployeePayrollSystem/master/Login.png)
+
+![Main Menu](https://raw.githubusercontent.com/kirkosm/EmployeePayrollSystem/master/MainMenu.png)
+
+![Payroll](https://raw.githubusercontent.com/kirkosm/EmployeePayrollSystem/master/Payroll.png)
+
+![Excel Export](https://raw.githubusercontent.com/kirkosm/EmployeePayrollSystem/master/excel.png)
+
+![Receipt](https://raw.githubusercontent.com/kirkosm/EmployeePayrollSystem/master/receipt.png)
+
+![Word Export](https://raw.githubusercontent.com/kirkosm/EmployeePayrollSystem/master/word.png)
+
